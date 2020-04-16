@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0;padding: 0;}
+body{background-color:#ededed;font-family:"楷体" ;font-size:16px;color: #a5a5a5}
+
+.header{
+    wideth:980px;
+    magrin:0 auto 7px;
+    height: 86px;
+    line-height: 70px;
+    text-align: center;
+    font-family: "微软雅黑";
+    color:#a5a5a5;
+    }
+.header strong {
+    font-weight: normal;
+    font-size: 30px;
+    }
+.header em{
+    font-weight: normal;
+    font-size: 16px;
+    }
+
+.fenlei{
+    width:980px;
+    margin:0 auto;
+    }
+.fenlei h2{
+    font-size: 18px;
+    font-family: "微软雅黑";
+    color:#a5a5a5;
+    }
+.fenlei p{
+    text-align: center;
+    font-size:18px;
+    line-height: 30px;
+    }
+.bestseller{
+    width:600px;
+    margin:0 auto; 
+    letter-spacing: 5px;
+    line-height: 26px;
+        
+}
+.bestseller .text{
+    font-size: 20px;
+    font-family: "楷体";
+}
+.bestseller .text em{
+    font-style: normal;
+    text-decoration:underline;
+}
+.shouhou{
+    width:600px;
+    margin:0 auto;
+    text-align: center;
+    font-family: "微软雅黑";
+    font-size:20px; 
+    font-weight: bold;  
+}
+
+.dianzhu{
+    width: 600px;
+    margin: 0 auto;    
+}
+.dianzhu h3,.dianzhu p{
+   text-indent: 2em;   
+}
+.dianzhu h3{
+  height:30px;  
+  line-height: 30px;
+  font-family: "宋体";
+  fongt-size: 20px;
+  font-weight: bold;
+}
+.dianzhu p{
+  font-style:italic;
+  font-size:16px;
+  line-height: 26px;
+}
+
+
+
+
+
+
+
+
